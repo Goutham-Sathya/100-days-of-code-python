@@ -1,0 +1,21 @@
+# Day 4 Notes
+- learned:
+    - Random module
+        - `random.random()`
+        - `random.randint()`
+        - `random.choice()`
+        - `random.shuffle()`
+    - Lists operations
+        - Indexing and slicing
+        - Modifying elements
+        - Common methods (`append`, `remove`, etc.)
+    - Handling IndexError
+    - Banker Roulette project
+        - Selecting random payer from list
+    - Rock Paper Scissors game
+        - Implementing game logic with random choices
+- key takeaways:
+    - Random module is essential for probability-based programs
+    - Lists are versatile containers for ordered data
+    - Always validate indices to prevent IndexError
+    - Combining conditionals with randomization creates engaging programs
