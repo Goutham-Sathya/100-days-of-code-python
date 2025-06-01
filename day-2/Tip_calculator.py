@@ -11,4 +11,4 @@ total_bill = bill + tip_amount
 bill_per_person = total_bill / people
 pay_amount = round(bill_per_person, 2)
 # output
-print(f"Each person should pay: ${pay_amount}")
+print(f"Each person should pay: ${pay_amount} ")
